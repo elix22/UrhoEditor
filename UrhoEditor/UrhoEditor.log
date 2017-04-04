@@ -1,0 +1,45 @@
+[Mon Apr  3 22:20:06 2017] INFO: Opened log file UrhoEditor.log
+[Mon Apr  3 22:20:06 2017] INFO: Created 1 worker thread
+[Mon Apr  3 22:20:06 2017] INFO: Added resource path C:/dev/UrhoEditor/x64/Debug/Data/
+[Mon Apr  3 22:20:06 2017] INFO: Added resource path C:/dev/UrhoEditor/x64/Debug/CoreData/
+[Mon Apr  3 22:20:06 2017] INFO: Set screen mode 640x480 windowed
+[Mon Apr  3 22:20:06 2017] INFO: Initialized input
+[Mon Apr  3 22:20:06 2017] INFO: Initialized user interface
+[Mon Apr  3 22:20:06 2017] DEBUG: Loading resource Textures/Ramp.png
+[Mon Apr  3 22:20:06 2017] DEBUG: Loading temporary resource Textures/Ramp.xml
+[Mon Apr  3 22:20:06 2017] DEBUG: Loading resource Textures/Spot.png
+[Mon Apr  3 22:20:06 2017] DEBUG: Loading temporary resource Textures/Spot.xml
+[Mon Apr  3 22:20:06 2017] DEBUG: Loading resource Techniques/NoTexture.xml
+[Mon Apr  3 22:20:06 2017] DEBUG: Loading resource RenderPaths/Forward.xml
+[Mon Apr  3 22:20:06 2017] INFO: Initialized renderer
+[Mon Apr  3 22:20:06 2017] INFO: Set audio mode 44100 Hz stereo interpolated
+[Mon Apr  3 22:20:06 2017] DEBUG: Loading resource UI/MessageBox.xml
+[Mon Apr  3 22:20:06 2017] DEBUG: Loading UI layout UI/MessageBox.xml
+[Mon Apr  3 22:20:06 2017] INFO: Initialized engine
+[Mon Apr  3 22:20:06 2017] DEBUG: Started watching path C:/dev/UrhoEditor/x64/Debug/Data/
+[Mon Apr  3 22:20:06 2017] DEBUG: Started watching path C:/dev/UrhoEditor/x64/Debug/CoreData/
+[Mon Apr  3 22:20:06 2017] DEBUG: Loading resource UI/DefaultStyle.xml
+[Mon Apr  3 22:20:06 2017] DEBUG: Loading resource Fonts/Anonymous Pro.ttf
+[Mon Apr  3 22:20:06 2017] DEBUG: Font face Anonymous Pro (11pt) has 624 glyphs
+[Mon Apr  3 22:20:09 2017] DEBUG: Window was moved to -500,-549
+[Mon Apr  3 22:20:09 2017] DEBUG: Reloading shaders
+[Mon Apr  3 22:20:10 2017] DEBUG: Window was moved to 260,184
+[Mon Apr  3 22:20:10 2017] DEBUG: Window was resized to 1336x838
+[Mon Apr  3 22:20:13 2017] DEBUG: Loading resource Materials/Editor/GizmoControlPoint.xml
+[Mon Apr  3 22:20:13 2017] DEBUG: Loading resource Techniques/BasicVColUnlitAlphaNoDepth.xml
+[Mon Apr  3 22:20:13 2017] DEBUG: Loading resource Textures/Editor/GizmoIconBase.png
+[Mon Apr  3 22:20:13 2017] DEBUG: Loading resource Materials/VColUnlit.xml
+[Mon Apr  3 22:20:13 2017] DEBUG: Loading resource Techniques/NoTextureUnlitVCol.xml
+[Mon Apr  3 22:20:13 2017] DEBUG: Font face Anonymous Pro (10pt) has 624 glyphs
+[Mon Apr  3 22:20:13 2017] DEBUG: Loading resource Shaders/HLSL/Basic.hlsl
+[Mon Apr  3 22:20:13 2017] DEBUG: Loading resource Shaders/HLSL/Unlit.hlsl
+[Mon Apr  3 22:20:13 2017] DEBUG: Loaded cached vertex shader Unlit(NOUV VERTEXCOLOR)
+[Mon Apr  3 22:20:13 2017] DEBUG: Loaded cached pixel shader Unlit(VERTEXCOLOR)
+[Mon Apr  3 22:20:13 2017] DEBUG: Loaded cached vertex shader Basic(DIFFMAP VERTEXCOLOR)
+[Mon Apr  3 22:20:13 2017] DEBUG: Loaded cached pixel shader Basic(ALPHAMAP VERTEXCOLOR)
+[Mon Apr  3 22:20:13 2017] DEBUG: Resized scratch buffer to size 0
+[Mon Apr  3 22:20:14 2017] DEBUG: Loaded cached vertex shader Basic(VERTEXCOLOR)
+[Mon Apr  3 22:20:14 2017] DEBUG: Loaded cached pixel shader Basic(VERTEXCOLOR)
+[Mon Apr  3 22:21:02 2017] DEBUG: Window was resized to 1335x838
+[Mon Apr  3 22:21:02 2017] DEBUG: Window was resized to 1265x838
+[Mon Apr  3 22:21:02 2017] DEBUG: Window was resized to 1240x838
